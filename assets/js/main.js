@@ -2,7 +2,7 @@ AOS.init();
 
 new Typed("#typed", {
     strings: [
-        "We Deliver Happiness",
+        "We create what you need",
         "Dabba Packaging ",
         
     ],
